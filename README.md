@@ -17,6 +17,11 @@
 - helm v3.8.2
 ```
 
+## Changes needed
+
+- Change the Dockerhub repository name in the `.github/workflows/main.yml`
+- Add  `DOCKER_USERNAME` `DOCKER_PASSWORD` `AWS_ACCESS_KEY` `AWS_SECRET_ACCESS_KEY` to github action secrets
+
 ## How to setup?
 
 ### Clone this repository
