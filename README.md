@@ -141,3 +141,6 @@ kubectl get ingress -n wisecow-namespace
 
 ## What to expect?
 ![wisecow](https://github.com/nyrahul/wisecow/assets/9133227/8d6bfde3-4a5a-480e-8d55-3fef60300d98)
+
+
+## Now make some changes and push it to github, the action will run where the image is built from docker file and pushed to docker hub and then from there  it will be used for deplying on k8s
