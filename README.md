@@ -3,7 +3,6 @@
 ## About
 
 - The application is deployed on AWS EKS as a K8s app with fargate
-- You can access the app here : http://k8s-wisecown-ingressw-fd1f27eb7a-1584757244.us-east-1.elb.amazonaws.com/
 - The cluster has a configured ingress controller with an application load balancer
 
 
